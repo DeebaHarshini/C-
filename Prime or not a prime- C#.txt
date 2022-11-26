@@ -18,6 +18,6 @@ using System;
             }    
           }    
           if (flag==0)    
-           Console.Write("This number is Prime.");       
+           Console.Write("This number is a Prime.");       
      }  
    }
