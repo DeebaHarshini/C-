@@ -12,12 +12,12 @@ using System;
           {    
            if(n % i == 0)    
             {    
-             Console.Write("Number is not Prime.");    
+             Console.Write("This number is not a Prime.");    
              flag=1;    
              break;    
             }    
           }    
           if (flag==0)    
-           Console.Write("Number is Prime.");       
+           Console.Write("This number is Prime.");       
      }  
    }
